@@ -1,0 +1,52 @@
+button {
+    border: none;
+    outline: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+img {
+    cursor: pointer;
+}
+
+#dv {
+    width: 24px;
+    height: 5px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+#dv1 {
+    width: 24px;
+    height: 5px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+#dv2 {
+    width: 24px;
+    height: 5px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+#dvflex {
+    display: flex;
+}
+
+#btn1 {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    margin: auto;
+}
+
+#btn1:hover {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
